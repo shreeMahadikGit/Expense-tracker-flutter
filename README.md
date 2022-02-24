@@ -5,6 +5,10 @@ A full stack flutter app developed by me to track your monthly expenses and tran
 ![Screenshot_20220205-093156](https://user-images.githubusercontent.com/78857477/152628013-2fb45d45-6cc5-40d6-96e9-421dfab15e99.jpg)
 ![Screenshot_20220205-093204](https://user-images.githubusercontent.com/78857477/152628014-1021da96-bcee-4120-bc86-ae4166f39547.jpg)
 
+BackEnd (FireBase Structure)
+![image](https://user-images.githubusercontent.com/78857477/155463577-897c0156-6e3c-4b27-bf68-97d00b8ad732.png)
+![image](https://user-images.githubusercontent.com/78857477/155463602-cec27db0-0b73-41af-a4c1-4f2e20e7c057.png)
 
 https://user-images.githubusercontent.com/78857477/152628032-338155f1-52f7-4572-bea9-0566572cdea1.mp4
+
 
