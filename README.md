@@ -9,6 +9,9 @@ BackEnd (FireBase Structure)
 ![image](https://user-images.githubusercontent.com/78857477/155463577-897c0156-6e3c-4b27-bf68-97d00b8ad732.png)
 ![image](https://user-images.githubusercontent.com/78857477/155463602-cec27db0-0b73-41af-a4c1-4f2e20e7c057.png)
 
+UI:
 https://user-images.githubusercontent.com/78857477/152628032-338155f1-52f7-4572-bea9-0566572cdea1.mp4
 
+Backend Functionality:
+https://user-images.githubusercontent.com/78857477/155464298-a03828b0-2d2b-4bdb-8dff-1ac83dc8ba32.mp4
 
