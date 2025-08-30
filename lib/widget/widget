@@ -1,0 +1,29 @@
+void AppColors(totalfood, totalEntertainment, totalPersonal, totalTransportation, totalStudies, totalAny){
+
+   AppColors( @required  this.totalfood, this.totalEntertainment, this.totalPersonal, this.totalTransportation, this.totalStudies, this.totalAny);
+List pieColors = [
+    Colors.indigo[400],
+    Colors.blue,
+    Colors.green,
+    Colors.amber,
+    Colors.deepOrange,
+    Colors.brown,
+  ];
+ List category = [
+  {"name": "Food", "amount": totalfood},
+  {"name": "Entertainment", "amount": 100.0},
+  {"name": "Personal", "amount": 80.0},
+  {"name": "Transportation", "amount": 50.0},
+  {"name": "Studies", "amount": 100.0},
+  {"name": "Any", "amount": 30.0},
+];
+  
+Color primaryWhite = Color(0xffedf1f4);
+
+ 
+ data.docs[0]['totalIncome'].toString() 
+ data.docs[0]['totalIncome'].toString()
+
+}
+
+  await SetTransaction(uid: user.uid,t_name: 't_name',t_amt: '0',isIncome: true, Category: 'Any');

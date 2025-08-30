@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443454495022",
+    "project_id": "expensetracker-f8968",
+    "storage_bucket": "expensetracker-f8968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443454495022:android:8220682adcd1ddf22e82bf",
+        "android_client_info": {
+          "package_name": "com.shreemahadik.expensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443454495022-gu5p0a48eusdu2dred71t7keq344i5d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Hzmb0gUzhFL3fZXT0Sr-pzqIOQVV2Go"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443454495022-gu5p0a48eusdu2dred71t7keq344i5d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

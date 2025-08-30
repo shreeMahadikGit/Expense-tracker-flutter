@@ -1,0 +1,21 @@
+App name: Expense Tracker
+
+Short description: A One-stop solution to track your daily expenses
+
+Full Desc:ExpenseTracker is the feature-rich monthly expense tracker app, allowing users to track their day-to-day expenses like accommodation, meal & entertainment, travel expense, office supplies, phone & Internet, fuel, parking, and other daily expenses.
+
+category: finance or productivity
+
+tags: related to category
+
+Email:shree.a.mahadik@gmail.com
+
+release notes:Some features might not work because it's a resume-centric app.
+For now the main focus of this app is UI and CRUD operations using firebase.
+
+ Country: All
+
+Privacy Policy:https://sites.google.com/view/shreemahadik/home
+
+no ads
+

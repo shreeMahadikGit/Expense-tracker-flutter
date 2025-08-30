@@ -1,0 +1,42 @@
+Map<String, dynamic>transaction(String t_name, String t_amt,String Category,bool isIncome){
+      var t_amtdouble = double.parse(t_amt);
+      if (isIncome == false){
+        var t_amtdouble= double.parse('-'+ t_amt );
+      }
+      return {
+        'transactions': FieldValue.arrayUnion([
+          {
+            "t_name": t_name,
+            "t_amt": t_amtdouble,
+            "Category": Category,
+            "isIncome":isIncome
+          }
+        ]),
+        'Balance': FieldValue.increment(t_amtdouble),
+      };
+  }
+
+
+
+
+
+  transaction(t_name, t_amt, Category, isExpense)
+
+
+
+  
+  initalize(var uid) async {
+    await FirebaseFirestore.instance
+        .collection('expenses')
+        .doc(uid)
+        .collection('transactions')
+        .doc('transactions')
+        .get()
+        .then((DocumentSnapshot documentSnapshot) {
+      if (documentSnapshot.exists) {
+        print('Document exists on the database');
+      } else {
+        print('Document does not exist on the database');
+      }
+    });
+  }
