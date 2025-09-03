@@ -6,10 +6,10 @@ Backend Functionality:
 
 A full stack flutter app developed by me to track your monthly expenses and transactions. (Frontend completed 98% backend completed 95%).  
 
-<img src="https://user-images.githubusercontent.com/78857477/152628008-7650bee6-ae51-4cbf-9203-45b2f042dba3.jpg" width="100">
-<img src="https://user-images.githubusercontent.com/78857477/152628011-9851372b-ad83-4dd1-8b44-f40ceb38d2e8.jpg" width="100">
-<img src="https://user-images.githubusercontent.com/78857477/152628013-2fb45d45-6cc5-40d6-96e9-421dfab15e99.jpg" width="100">
-<img src="https://user-images.githubusercontent.com/78857477/152628014-1021da96-bcee-4120-bc86-ae4166f39547.jpg" width="100">
+<img src="https://user-images.githubusercontent.com/78857477/152628008-7650bee6-ae51-4cbf-9203-45b2f042dba3.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/78857477/152628011-9851372b-ad83-4dd1-8b44-f40ceb38d2e8.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/78857477/152628013-2fb45d45-6cc5-40d6-96e9-421dfab15e99.jpg" width="200">
+<img src="https://user-images.githubusercontent.com/78857477/152628014-1021da96-bcee-4120-bc86-ae4166f39547.jpg" width="200">
 
 BackEnd (FireBase Structure)  
 <img src="https://user-images.githubusercontent.com/78857477/155463577-897c0156-6e3c-4b27-bf68-97d00b8ad732.png" width="300">
